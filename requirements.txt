@@ -1,0 +1,3 @@
+flask
+# aquí pones el listado de librarías que quieres que se instalen cuando se levante el contenedor de Docker
+# pandas
